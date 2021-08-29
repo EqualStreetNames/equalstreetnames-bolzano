@@ -22,7 +22,15 @@ return [
     // Manualy assign gender to ways/relations (when there are no wikidata page for example)
     'gender' => [
         'relation' => [],
-        'way' => [
+	'way' => [
+	    '151256238' => 'M', // Via Gianni Brida
+	    '219781900' => 'F', // Piazza Marcella Casagrande - Marcella
+	    '242668437' => 'F', // Passaggio Carla Lazzerini
+	    '215543098' => 'F', // Piazzetta Wilhelmine Grätzl von Kofler
+	    '30196439' => 'F', // Via Hildegard Straub
+	    '32991869' => 'F', // Santa Giustina
+	    '34326241' => 'F', // Via Anna Ruedl Zagler
+	    '61483910' => 'M' // Passaggio Don Daniele Longhi
             /*
             '12121212' => 'F', // Pia Mancini road
             '13131312' => 'M', // Mister nobody Street
