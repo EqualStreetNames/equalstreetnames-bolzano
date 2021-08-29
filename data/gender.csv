@@ -1,8 +1,11 @@
 name,source,gender,wikidata,type
+"Passaggio Annette Von Menz - Annette-Von-Menz-Passage",wikidata,F,Q566737,way
 "Passaggio Filomena dalla Palma - Filomena-dalla-Palma-Weg",wikidata,F,Q108305915,way
 "Passaggio Norma Cossetto - Norma-Cossetto-Passage",wikidata,F,Q869328,way
 "Piazza Angela Nikoletti - Angela-Nikoletti-Platz",wikidata,F,Q90145,way
 "Piazza Anita Pichler - Anita-Pichler-Platz",wikidata,F,Q550824,way
+"Piazza Maria Montessori - Maria-Montessori-Platz",wikidata,F,Q131117,way
+"Piazzetta Anne Frank - Anne-Frank-Platz",wikidata,F,Q4583,way
 "Piazzetta Maria Delago - Maria-Delago-Platz",wikidata,F,Q97143251,way
 "Via Ada Buffulini - Ada-Buffulini-Straße",wikidata,F,Q3604911,way
 "Via Andreina Emeri - Andreina-Emeri-Straße",wikidata,F,Q502772,way
@@ -29,6 +32,7 @@ name,source,gender,wikidata,type
 "Via Amedeo Avogadro - Amedeo-Avogadro-Straße",wikidata,M,Q43476,way
 "Via Andreas Hofer - Andreas-Hofer-Straße",wikidata,M,Q11697,way
 "Via Antonio Locatelli - Antonio-Locatelli-Straße",wikidata,M,Q2857333,way
+"Via Antonio Meucci - Antonio-Meucci-Straße",wikidata,M,Q273314,way
 "Via Antonio Pacinotti - Antonio-Pacinotti-Straße",wikidata,M,Q460747,way
 "Via Antonio Stradivari - Antonio-Stradivari-Straße",wikidata,M,Q182011,way
 "Via Armando Diaz - Armando-Diaz-Straße",wikidata,M,Q333778,way
@@ -42,6 +46,7 @@ name,source,gender,wikidata,type
 "Via Cavour - Cavourstraße",wikidata,M,Q166092,way
 "Via Cesare Battisti - Cesare-Battisti-Straße",wikidata,M,Q78782,way
 "Via Dante - Dantestraße",wikidata,M,Q1067,way
+"Via Don Narciso Sordo - Don-Narciso-Sordo-Straße",wikidata,M,Q22693964,way
 "Via Dr. Josef Streiter - Dr.-Josef-Streiter-Gasse",wikidata,M,Q1708051,way
 "Via Enrico Fermi - Enrico-Fermi-Straße",wikidata,M,Q8753,way
 "Via Enzo Ferrari - Enzo-Ferrari-Straße",wikidata,M,Q181282,way
@@ -63,9 +68,11 @@ name,source,gender,wikidata,type
 "Via Guglielmo Marconi - Guglielmo-Marconi-Straße",wikidata,M,Q36488,way
 "Via Gustav Mahler - Gustav-Mahler-Straße",wikidata,M,Q7304,way
 "Via Gutenberg - Gutenbergstraße",wikidata,M,Q8958,way
+"Via Hermann Von Gilm - Hermann-Von-Gilm-Straße",wikidata,M,Q114758,way
 "Via Johann Kravogl - Johann-Kravogl-Straße",wikidata,M,Q1695212,way
 "Via Josef Mayr-Nusser - Josef-Mayr-Nusser-Weg",wikidata,M,Q882928,way
 "Via Josef Ressel - Josef-Ressel-Straße",wikidata,M,Q78558,way
+"Via Leonardo da Vinci - Leonardo-da-Vinci-Straße",wikidata,M,Q762,way
 "Via Louis Braille - Louis-Braille-Straße",wikidata,M,Q93182,way
 "Via Ludwig Thuille - Ludwig-Thuille-Straße",wikidata,M,Q702158,way
 "Via Ludwig Von Comini - Ludwig-Von-Comini-Straße",wikidata,M,Q15138237,way
@@ -106,3 +113,11 @@ name,source,gender,wikidata,type
 "Viale Giacomo Puccini - Giacomo-Puccini-Allee",wikidata,M,Q7311,way
 "Viale Principe Eugenio di Savoia - Prinz-Eugen-Allee",wikidata,M,Q152428,way
 "Viale Wolfgang Amadeus Mozart - Wolfgang-Amadeus-Mozart-Allee",wikidata,M,Q254,way
+"Passaggio Carla Lazzerini - Carla-Lazzerini-Weg",config,F,,way
+"Piazza Marcella Casagrande - Marcella-Casagrande-Platz",config,F,,way
+"Piazzetta Wilhelmine Grätzl von Kofler - Wilhelmine-Grätzl-von-Kofler-Platz",config,F,,way
+"Via Anna Ruedl Zagler - Anna-Ruedl-Zagler-Straße",config,F,,way
+"Via Hildegard Straub - Hildegard-Straub-Straße",config,F,,way
+"Via Santa Giustina - St.-Justina-Straße",config,F,,way
+"Passaggio Don Daniele Longhi - Don-Daniele-Longhi-Weg",config,M,,way
+"Via Gianni Brida - Gianni-Brida-Straße",config,M,,way
