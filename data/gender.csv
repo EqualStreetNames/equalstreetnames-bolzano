@@ -18,6 +18,7 @@ name,source,gender,wikidata,type
 "Via Marie Curie - Marie-Curie-Straße",wikidata,F,Q7186,way
 "Via Santa Geltrude - St.-Gertraud-Weg",wikidata,F,Q61934,way
 "Via Waltraud Gebert Deeg - Waltraud-Gebert-Deeg-Straße",wikidata,F,Q1372618,way
+Alexander-Langer-Brücke,wikidata,M,Q719360,way
 "Largo Adolph Kolping - Adolph-Kolping-Straße",wikidata,M,Q60619,way
 "Largo Giovanni Palatucci - Giovanni-Palatucci-Platz",wikidata,M,Q737740,way
 "Passaggio Walter Tobagi - Walter-Tobagi-Weg",wikidata,M,Q4018031,way
@@ -56,7 +57,7 @@ name,source,gender,wikidata,type
 "Via Francesco Rismondo - Francesco-Rismondo-Straße",wikidata,M,Q3750542,way
 "Via Franz Von Defregger - Franz-Von-Defregger-Straße",wikidata,M,Q78711,way
 "Via Galileo Galilei - Galileo-Galilei-Straße",wikidata,M,Q307,way
-"Via Giosue' Carducci - Giosue'-Carducci-Straße",wikidata,M,Q43440,way
+"Via Giosuè Carducci - Giosuè-Carducci-Straße",wikidata,M,Q43440,way
 "Via Giotto - Giottostraße",wikidata,M,Q7814,way
 "Via Giovanni Caproni - Giovanni-Caproni-Straße",wikidata,M,Q501316,way
 "Via Giovanni Keplero - Johannes-Kepler-Straße",wikidata,M,Q8963,way
@@ -89,8 +90,8 @@ name,source,gender,wikidata,type
 "Via Michael Gaismair - Michael-Gaismair-Straße",wikidata,M,Q572435,way
 "Via Michael Pacher - Michael-Pacher-Straße",wikidata,M,Q463922,way
 "Via Nazario Sauro - Nazario-Sauro-Straße",wikidata,M,Q114387,way
+"Via Nicolò Copernico - Nikolaus-Kopernikus-Straße",wikidata,M,Q619,way
 "Via Nicolò Rasmo - Nicolò-Rasmo-Straße",wikidata,M,Q2783181,way
-"Via Nicolo' Copernico - Nikolaus-Kopernikus-Straße",wikidata,M,Q619,way
 "Via Nino Bixio - Nino-Bixio-Straße",wikidata,M,Q699354,way
 "Via Orazio - Horazstraße",wikidata,M,Q6197,way
 "Via P. Rosegger - P. Rosegger-Straße",wikidata,M,Q93841,way
