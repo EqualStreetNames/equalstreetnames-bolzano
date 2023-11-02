@@ -15,7 +15,7 @@ name,source,gender,wikidata,type
 "Via Castel Weinegg - Weineggstraße",wikidata,,Q1014519,way
 "Via Catinaccio - Rosengartenstraße",wikidata,,Q2167183,way
 "Via Claudia Augusta - Claudia-Augusta-Straße",wikidata,,Q685132,relation+way
-"Via Col di Lana - Col di Lana Straße",wikidata,,Q428308,way
+"Via Col di Lana - Col-di-Lana-Straße",wikidata,,Q428308,way
 "Via Dalmazia - Dalmatienstraße",wikidata,,Q528042,way
 "Via Esperanto - Esperantostraße",wikidata,,Q143,way
 "Via Firenze - Florenzerstraße",wikidata,,Q2044,way
@@ -121,6 +121,7 @@ Lärchenstock,,,,way
 "Lungo Talvera S. Quirino - Quireiner Wassermauer",,,,way
 "Lungo Talvera San Quirino - Quireiner Wassermauer",,,,way
 "Lungo Talvera degli Alpini - Alpini-Wassermauer",,,,way
+"Lungotalvera Gries - Grieser Wassermauer",,,,way
 "Mebo-Schnellstraße - Superstrada Mebo",,,,way
 "Meraner Kreuzung",,,,way
 "Mondscheinweg - Via Mondschein",,,,way
@@ -155,7 +156,6 @@ Pedemontana,,,,way
 "Piazza Cristo Re - Christkönigplatz",,,,way
 "Piazza Dogana - Zollstangenplatz",,,,way
 "Piazza Domenicani - Dominikanerplatz",,,,way
-"Piazza Don Bosco",,,,way
 "Piazza Don Bosco - Don-Bosco-Platz",,,,way
 "Piazza Don Giuseppe Rauzi - Don-Giuseppe-Rauzi-Platz",,,,way
 "Piazza Don Vittorio Franzoi - Don-Vittorio-Franzoi-Platz",,,,way
@@ -376,6 +376,7 @@ Traubengang,,,,way
 "Vicolo delle Erbe - Erbsengasse",,,,way
 Vierkreuz,,,,way
 "Vierkreuz - Quattro croci",,,,way
+"Weinwanderweg ""Rebe""",,,,way
 "Wolftal - Hirschenkopf",,,,way
 "Zufahrt Herrentisch",,,,way
 "via Campegno",,,,way
