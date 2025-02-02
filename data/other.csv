@@ -58,7 +58,6 @@ name,source,gender,wikidata,type
 "Via della Zecca - Münzbankweg",wikidata,,Q464780,way
 "Viale Trieste - Triester Straße",wikidata,,Q546,way
 "Viale Venezia - Venediger Straße",wikidata,,Q641,way
-1,,,,way
 "1 B",,,,way
 1A,,,,way
 "2, 3A",,,,way
@@ -233,6 +232,7 @@ Traubengang,,,,way
 "Via Albin Egger Lienz - Albin-Egger-Lienz-Straße",,,,way
 "Via Alto Adige - Südtiroler Straße",,,,way
 "Via Amalfi - Amalfistraße",,,,way
+"Via Antonio Meucci",,,,way
 "Via Antonio Rosmini - Antonio-Rosmini-Straße",,,,way
 "Via Argentieri - Silbergasse",,,,way
 "Via Aslago - Haslacher Straße",,,,way
@@ -271,6 +271,7 @@ Traubengang,,,,way
 "Via Guncina - Guntschnastraße",,,,way
 "Via In Villa - Im Dorf",,,,way
 "Via Innsbruck - Innsbrucker Straße",,,,way
+"Via Ipazia",,,,way
 "Via Ischia - Ischiastraße",,,,way
 "Via Johann Wolfgang Von Goethe - Johann-Wolfgang-Von-Goethe-Straße",,,,way
 "Via Josef Mayr Nusser - Josef-Mayr-Nusser-Straße",,,,way
@@ -279,6 +280,7 @@ Traubengang,,,,way
 "Via Lungo Isarco Sinistro",,,,way
 "Via Maestri del Lavoro - Meister-der-Arbeit-Straße",,,,way
 "Via Malles - Malser Straße",,,,way
+"Via Maria Winkelmann",,,,way
 "Via Masi - Höfestraße",,,,way
 "Via Maso della Pieve - Pfarrhofstraße",,,,way
 "Via Merano - Meraner Straße",,,,way
