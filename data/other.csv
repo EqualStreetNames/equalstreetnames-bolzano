@@ -62,23 +62,19 @@ name,source,gender,wikidata,type
 1A,,,,way
 "2, 3A",,,,way
 "3 - 5",,,,way
-4,,,,way
 5,,,,way
 "5 - 9",,,,way
 "5 A",,,,way
-5A,,,,way
 6,,,,way
 "6 A",,,,way
-7,,,,way
-8,,,,way
 "Accesso Schelmtal - Zufahrt Schelmtal",,,,way
 "Acesso circonvallazione Bolzano - Anschluss Umfahrung Bozen",,,,way
 "Altenberg - Montalto",,,,way
 "Altenberg / Fraktionswald - Montalto / Fraktionswald",,,,way
 "Am Grumeregg - Via Grumeregg",,,,way
 "Bosco dei bricconi - Schelmwald",,,,way
-"Brenner-Staatsstraße - Strada Statale dell'Abetone e del Brennero",,,,way
 "Brennerautobahn - Autostrada del Brennero",,,,way
+"Brennerstraße - Via Brennero",,,,way
 "Circonvallazione Bolzano - Umfahrung Bozen",,,,way
 "Corso Italia - Italienallee",,,,way
 "Corso della Libertà - Freiheitsstraße",,,,relation
@@ -274,7 +270,6 @@ Traubengang,,,,way
 "Via Ipazia",,,,way
 "Via Ischia - Ischiastraße",,,,way
 "Via Johann Wolfgang Von Goethe - Johann-Wolfgang-Von-Goethe-Straße",,,,way
-"Via Josef Mayr Nusser - Josef-Mayr-Nusser-Straße",,,,way
 "Via Laurin - Laurinstraße",,,,way
 "Via Loris Musy - Loris-Musy-Straße",,,,way
 "Via Lungo Isarco Sinistro",,,,way
