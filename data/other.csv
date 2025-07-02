@@ -61,7 +61,6 @@ name,source,gender,wikidata,type
 "1 B",,,,way
 1A,,,,way
 "2, 3A",,,,way
-"3 - 5",,,,way
 5,,,,way
 "5 - 9",,,,way
 "5 A",,,,way
@@ -163,7 +162,6 @@ Pedemontana,,,,way
 "Piazza Nikolaus Firmian - Nikolaus-Firmian-Platz",,,,way
 "Piazza Piero Siena - Piero-Siena-Platz",,,,way
 "Piazza Università - Universitätsplatz",,,,way
-"Piazza Walther - Waltherplatz",,,,relation+way
 "Piazza Wilhelm Alexander Loew-Cadonna - Wilhelm-Alexander-Loew-Cadonna-Platz",,,,way
 "Piazza del Grano - Kornplatz",,,,way
 "Piazza del Municipio - Rathausplatz",,,,way
