@@ -1,4 +1,63 @@
 name,source,gender,wikidata,type
+"Via Alessandria - Alessandriastraße",wikidata,-,Q6088,way
+"Via Amba Alagi - Amba-Alagi-Straße",wikidata,-,Q456557,way
+"Via Aosta - Aostastraße",wikidata,-,Q3367,way
+"Via Arezzo - Arezzostraße",wikidata,-,Q13378,way
+"Via Bari - Baristraße",wikidata,-,Q3519,way
+"Via Barletta - Barlettastraße",wikidata,-,Q13470,way
+"Via Bassano del Grappa - Bassano-Del-Grappa-Straße",wikidata,-,Q47094,way
+"Via Bergamo - Bergamostraße",wikidata,-,Q628,way
+"Via Cagliari - Cagliaristraße",wikidata,-,Q1897,way
+"Via Capri - Capristraße",wikidata,-,Q71902,way
+"Via Castel Flavon - Küepachweg",wikidata,-,Q1588255,way
+"Via Castel Mareccio - Maretschgasse",wikidata,-,Q460931,way
+"Via Castel Roncolo - Runkelsteiner Straße",wikidata,-,Q376571,way
+"Via Castel Weinegg - Weineggstraße",wikidata,-,Q1014519,way
+"Via Catinaccio - Rosengartenstraße",wikidata,-,Q2167183,way
+"Via Claudia Augusta - Claudia-Augusta-Straße",wikidata,-,Q685132,relation+way
+"Via Col di Lana - Col-di-Lana-Straße",wikidata,-,Q428308,way
+"Via Dalmazia - Dalmatienstraße",wikidata,-,Q528042,way
+"Via Esperanto - Esperantostraße",wikidata,-,Q143,way
+"Via Firenze - Florenzerstraße",wikidata,-,Q2044,way
+"Via Firenze - Florenzstraße",wikidata,-,Q2044,way
+"Via Fiume - Fiumestraße",wikidata,-,Q1647,way
+"Via Genova - Genuastraße",wikidata,-,Q1449,way
+"Via Gorizia - Görzer Straße",wikidata,-,Q6596,way
+"Via Latemar - Latemarstraße",wikidata,-,Q174610,way
+"Via Milano - Mailandstraße",wikidata,-,Q490,way
+"Via Montecassino - Montecassinostraße",wikidata,-,Q334051,way
+"Via Montello - Montellostraße",wikidata,-,Q2902517,way
+"Via Napoli - Neapelstraße",wikidata,-,Q2634,way
+"Via Novacella - Neustifterweg",wikidata,-,Q385925,way
+"Via Ortles - Ortlerstraße",wikidata,-,Q650695,way
+"Via Palermo - Palermostraße",wikidata,-,Q2656,way
+"Via Parma - Parmastraße",wikidata,-,Q2683,way
+"Via Piacenza - Piacenzastraße",wikidata,-,Q13329,way
+"Via Pola - Polastraße",wikidata,-,Q4656,way
+"Via Positano - Positanostraße",wikidata,-,Q81345,way
+"Via Riva del Garda - Riva-Del-Garda-Straße",wikidata,-,Q194136,way
+"Via Rodi - Rhodosstraße",wikidata,-,Q43048,way
+"Via Roen - Roenstraße",wikidata,-,Q913922,way
+"Via Roma - Romstraße",wikidata,-,Q220,relation+way
+"Via Rovereto - Roveretostraße",wikidata,-,Q279373,way
+"Via Rovigo - Rovigostraße",wikidata,-,Q6572,way
+"Via Sassari - Sassaristraße",wikidata,-,Q13629,way
+"Via Sciliar - Schlernstraße",wikidata,-,Q1728342,way
+"Via Similaun - Similaunstraße",wikidata,-,Q697937,way
+"Via Sorrento - Sorrentstraße",wikidata,-,Q72672,way
+"Via Torino - Turinstraße",wikidata,-,Q495,way
+"Via Trento - Trienter Straße",wikidata,-,Q3376,way
+"Via Treviso - Trevisostraße",wikidata,-,Q5475,way
+"Via Tripoli - Tripolisstraße",wikidata,-,Q3579,way
+"Via Udine - Udinestraße",wikidata,-,Q2790,way
+"Via Valdagno - Valdagnostraße",wikidata,-,Q47251,way
+"Via Verona - Veronastraße",wikidata,-,Q2028,way
+"Via Vicenza - Vicenzastraße",wikidata,-,Q6537,way
+"Via Vittorio Veneto - Vittorio-Veneto-Straße",wikidata,-,Q47578,way
+"Via Zara - Zarastraße",wikidata,-,Q3370,way
+"Via della Zecca - Münzbankweg",wikidata,-,Q464780,way
+"Viale Trieste - Triester Straße",wikidata,-,Q546,way
+"Viale Venezia - Venediger Straße",wikidata,-,Q641,way
 "Passaggio Annette Von Menz - Annette-Von-Menz-Passage",wikidata,F,Q566737,way
 "Passaggio Filomena dalla Palma - Filomena-dalla-Palma-Weg",wikidata,F,Q108305915,way
 "Passaggio Norma Cossetto - Norma-Cossetto-Passage",wikidata,F,Q869328,way
