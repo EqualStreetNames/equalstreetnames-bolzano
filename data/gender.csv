@@ -1,5 +1,7 @@
 name,source,gender,wikidata,type
+"Piazza Alto Adige - Südtiroler Platz",wikidata,-,Q15124,way
 "Via Alessandria - Alessandriastraße",wikidata,-,Q6088,way
+"Via Alto Adige - Südtiroler Straße",wikidata,-,Q15124,way
 "Via Amba Alagi - Amba-Alagi-Straße",wikidata,-,Q456557,way
 "Via Aosta - Aostastraße",wikidata,-,Q3367,way
 "Via Arezzo - Arezzostraße",wikidata,-,Q13378,way
@@ -24,6 +26,7 @@ name,source,gender,wikidata,type
 "Via Genova - Genuastraße",wikidata,-,Q1449,way
 "Via Gorizia - Görzer Straße",wikidata,-,Q6596,way
 "Via Latemar - Latemarstraße",wikidata,-,Q174610,way
+"Via Laurin - Laurinstraße",wikidata,-,Q55616629,way
 "Via Milano - Mailandstraße",wikidata,-,Q490,way
 "Via Montecassino - Montecassinostraße",wikidata,-,Q334051,way
 "Via Montello - Montellostraße",wikidata,-,Q2902517,way
@@ -82,6 +85,7 @@ Alexander-Langer-Brücke,wikidata,M,Q719360,way
 "Largo Giovanni Palatucci - Giovanni-Palatucci-Platz",wikidata,M,Q737740,way
 "Passaggio Walter Tobagi - Walter-Tobagi-Weg",wikidata,M,Q4018031,way
 "Piazza Giacomo Matteotti - Giacomo-Matteotti-Platz",wikidata,M,Q267304,way
+"Piazza Giuseppe Verdi - Giuseppe-Verdi-Platz",wikidata,M,Q7317,way
 "Piazza Silvius Magnago - Silvius-Magnago-Platz",wikidata,M,Q9399,way
 "Piazza Walther - Waltherplatz",wikidata,M,Q44385,relation+way
 "Piazza del Tribunale - Gerichtsplatz",wikidata,M,Q549097,way
@@ -109,6 +113,7 @@ Alexander-Langer-Brücke,wikidata,M,Q719360,way
 "Via Dante - Dantestraße",wikidata,M,Q1067,way
 "Via Don Narciso Sordo - Don-Narciso-Sordo-Straße",wikidata,M,Q22693964,way
 "Via Dr. Josef Streiter - Dr.-Josef-Streiter-Gasse",wikidata,M,Q1708051,way
+"Via Dr. Julius Perathoner - Dr.-Julius-Perathoner-Straße",wikidata,M,Q1122466,way
 "Via Enrico Fermi - Enrico-Fermi-Straße",wikidata,M,Q8753,way
 "Via Enzo Ferrari - Enzo-Ferrari-Straße",wikidata,M,Q181282,way
 "Via Evangelista Torricelli - Evangelista-Torricelli-Straße",wikidata,M,Q102490,way
